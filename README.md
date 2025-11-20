@@ -35,37 +35,29 @@ My goal: help businesses make smarter decisions using analytics + processes.
 
 ## 📊 Featured Projects  
 
-🔹 Business Analyst Projects
+## 🔹 Business Analyst Projects
 
-Requirement Documents (BRD/FRD) – Real-world application requirements with clear business objectives
+- Requirement Documents (BRD/FRD) – Real-world application requirements with clear business objectives
+- Process Maps (As-Is / To-Be) – Workflow diagrams for business process improvement
+- Market & Competitor Analysis Reports – Insights with strategic recommendations
+- User Stories & Use Cases – Well-structured documentation for product development
+- Business Case Studies – Problem analysis with actionable insights
 
-Process Maps (As-Is / To-Be) – Workflow diagrams for business process improvement
-
-Market & Competitor Analysis Reports – Insights with strategic recommendations
-
-User Stories & Use Cases – Well-structured documentation for product development
-
-Business Case Studies – Problem analysis with actionable insights
-
-🔹 Data Analytics Projects
+## 🔹 Data Analytics Projects
 
 - 📈 **Sales Dashboard** – Built an interactive dashboard in **Power BI**  
 - 🐍 **Data Cleaning with Python** – Automated data preprocessing with Pandas & NumPy  
 - 🔎 **SQL Case Studies** – Wrote complex queries to answer real-world business questions
 
-💼 Target Roles
+## 💼 Target Roles
 
-Business Analyst
+- Business Analyst
+- Data Analyst
+- Operations Analyst
+- Reporting Analyst
+- Business Intelligence Analyst
 
-Data Analyst
-
-Operations Analyst
-
-Reporting Analyst
-
-Business Intelligence Analyst
-
-📬 Connect with Me
+## 📬 Connect with Me
 
 Email: shireensiddiqui652@gmail.com
 
@@ -73,17 +65,14 @@ GitHub: github.com/shireensiddiqui-S
 
 Location: Mughalsarai, Chandauli
 
-⭐ Current Focus
+## ⭐ Current Focus
 
-Completing Business Analyst course by Microsoft on LinkedIn
+- Completing Business Analyst course by Microsoft on LinkedIn
+- Building professional BA documentation projects
+- Improving SQL & Power BI for analytics roles
+- Preparing for roles in Business & Data Analysis
 
-Building professional BA documentation projects
-
-Improving SQL & Power BI for analytics roles
-
-Preparing for roles in Business & Data Analysis
-
-🔥 My Goal
+## 🔥 My Goal
 
 To combine business understanding and analytical expertise to help organizations make smarter, data-driven decisions.
 
